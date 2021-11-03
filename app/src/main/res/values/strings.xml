@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">samvel_homework_lesson_10</string>
+    <string name="dumbText">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard.</string>
+    <string-array name="cities">
+        <item>Yerevan</item>
+        <item>London</item>
+        <item>Paris</item>
+        <item>Rome</item>
+        <item>Tokyo</item>
+        <item>Berlin</item>
+        <item>Los Angeles</item>
+        <item>Moscow</item>
+    </string-array>
+</resources>
