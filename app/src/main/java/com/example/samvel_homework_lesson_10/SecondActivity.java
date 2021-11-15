@@ -23,7 +23,6 @@ public class SecondActivity extends AppCompatActivity {
         setContentView(R.layout.screen_2);
         initRecyclerView();
         setSpinnerAdapter();
-        View view = LayoutInflater.from(this).inflate(R.layout.screen_2,null);
     }
 
     private void initRecyclerView(){
